@@ -28,6 +28,10 @@ def recursive(lista, cadena):
         print(new_list)
         print(len(new_list))
 
+def imprime():
+    #Solo imprime hola
+    print("hello")
+
     
 cadena = input("Ingresa cadena: ")
 lista = list(cadena)
