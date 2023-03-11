@@ -1,5 +1,3 @@
 Esta es la historia de RUben 
 
-tengo 35 años y estoy aprendiendo a programar
-Esta es la primer modificacion despues del primer commit
-cambio de maestria
+Mañana nos enfocaremos en la su vida laboral
