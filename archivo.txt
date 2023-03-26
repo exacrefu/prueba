@@ -1,2 +1,2 @@
 Hece mucho timepo, un mounstruo paseaba por  un prado en cuyo centro encontró un arbolejo con un cartel que decía: soy un árbol encantado, si dices las palabras mágicas lo verás
-Estas lineas han sido agregadas después de crear el archivo conel comando cat y el operador >> para no sobreescribir el contenido 
+Estas lineas han sido agregadas después de crear el archivo conel comando cat y el operador >> para no sobreescribir el mounstruo 
